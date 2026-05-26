@@ -19,6 +19,23 @@
 | CVE‐2026‐25994 | PJSIP | 高危(8.1) | 2026-02 | [#2 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/2) |
 | CVE‐2025‐9074 | Docker Desktop | 严重(9.3) | 2025-08 | [#3 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/3) |
 
+### 😁 渗透测试笔记
+> 包含已被SRC收录的部分，也包含未被收录但是个人认为有意义的部分。
+- [#6 渗透测试](https://github.com/sanyunshiwoa/Security-Notes/issues/6)
+
+
+### 🛠️ 安全运维技巧
+> 实战中遇到的问题和解决方案。
+
+- [#5 需要允许跨域请求时如何防范CORS攻击](https://github.com/sanyunshiwoa/Security-Notes/issues/5)
+- [#x Linux系统如何配置才能符合等保的审计要求](link)
+- [#x Windows系统如何配置才能符合等保的审计要求](link)
+- [#x 不同数据库的安全审计](link)
+- [#x 应用系统弱密码问题防范](link)
+- [#x 内网非技术人员操作安全管理](link)
+- [#x WAF基础配置](link)
+- [#x 二层、三层、应用层流量监控与告警](link)
+
 
 ### 🛡️ 等保2.0解读（合规视角）
 > 从技术角度解读等保2.0的控制项。
@@ -37,24 +54,16 @@
 - [#x ISO27001漏洞管理条款的技术实现](link) - 从漏洞扫描到修复闭环
 - [#x 如何写一份符合ISO标准的漏洞整改报告](link) - 模板+实例
 
-### 🛠️ 安全运维技巧
-> 实战中遇到的问题和解决方案。
-
-- [#5 需要允许跨域请求时如何防范CORS攻击](https://github.com/sanyunshiwoa/Security-Notes/issues/5)
-- [#x Linux系统如何配置才能符合等保的审计要求](link)
-- [#x Windows系统如何配置才能符合等保的审计要求](link)
-- [#x 不同数据库的安全审计](link)
-- [#x 应用系统弱密码问题防范](link)
-- [#x 内网非技术人员操作安全管理](link)
-- [#x WAF基础配置](link)
-- [#x 二层、三层、应用层流量监控与告警](link)
 
 ## 📊 统计
 
-- 总文章数：**5**
+- 总文章数：**7**
 - 漏洞复现：**3**
-- 等保解读：**1**
+- 渗透测试：**2**
 - 安全运维技巧：**1**
+- 等保2.0解读：**1**
+- ISO 27001理解：**0**
+
 
 
 ## 📬 联系我
