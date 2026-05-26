@@ -15,14 +15,14 @@
 
 | 漏洞编号 | 组件 | 危害等级 | 发布时间 | 笔记链接 |
 |----------|------|----------|----------|----------|
-| CVE‐2025‐32023 | Redis | 高危(7.0) | 2025-07 | [#1 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/1) |
-| CVE‐2026‐25994 | PJSIP | 高危(8.1) | 2026-02 | [#2 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/2) |
-| CVE‐2025‐9074 | Docker Desktop | 严重(9.3) | 2025-08 | [#3 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/3) |
+| CVE‐2025‐32023 | Redis | 高危(7.0) | 2025-07 | [#1 CVE‐2025‐32023](https://github.com/sanyunshiwoa/Security-Notes/issues/1) |
+| CVE‐2026‐25994 | PJSIP | 高危(8.1) | 2026-02 | [#2 CVE‐2026‐25994](https://github.com/sanyunshiwoa/Security-Notes/issues/2) |
+| CVE‐2025‐9074 | Docker Desktop | 严重(9.3) | 2025-08 | [#3 CVE‐2025‐9074](https://github.com/sanyunshiwoa/Security-Notes/issues/3) |
 
 ### 😁 渗透测试笔记
 > 包含已被SRC收录的部分，也包含未被收录但是个人认为有意义的部分。
-- [#6 渗透测试](https://github.com/sanyunshiwoa/Security-Notes/issues/6)
-
+- [#6 前端密钥硬编码引起的信息泄露](https://github.com/sanyunshiwoa/Security-Notes/issues/6)
+- [#7 个人微信绑定任意校园一卡通账户进行消费漏洞](https://github.com/sanyunshiwoa/Security-Notes/issues/7)
 
 ### 🛠️ 安全运维技巧
 > 实战中遇到的问题和解决方案。
