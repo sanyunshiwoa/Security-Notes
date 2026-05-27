@@ -22,7 +22,7 @@
 ### 😁 渗透测试笔记
 > 包含已被SRC收录的部分，也包含未被收录但是个人认为有意义的部分。
 - [#6 前端密钥硬编码引起的信息泄露](https://github.com/sanyunshiwoa/Security-Notes/issues/6)
-- [#7 个人微信绑定任意校园一卡通账户进行消费漏洞](https://github.com/sanyunshiwoa/Security-Notes/issues/7)
+- [#7 个人微信付款码绑定任意校园一卡通账户漏洞](https://github.com/sanyunshiwoa/Security-Notes/issues/7)
 
 ### 🛠️ 安全运维技巧
 > 实战中遇到的问题和解决方案。
