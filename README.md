@@ -12,7 +12,7 @@
 
 ### 🛠️ 安全运维经验
 > 实战中遇到的问题和解决方案。
-- [#5 需要允许跨域请求时如何防范CORS攻击](https://github.com/sanyunshiwoa/Security-Notes/issues/5)
+- [#1 需要允许跨域请求时如何防范CORS攻击](https://github.com/sanyunshiwoa/Security-Notes/issues/5)
 - [#x Linux系统如何配置才能符合等保的审计要求](link)
 - [#x Windows系统如何配置才能符合等保的审计要求](link)
 - [#x 不同数据库的安全审计](link)
@@ -24,15 +24,16 @@
 
 ### 🔐 渗透测试笔记
 > 包含已被SRC收录的部分，也包含未被收录但是个人认为有意义的部分。
-- [#6 前端密钥硬编码引起的信息泄露](https://github.com/sanyunshiwoa/Security-Notes/issues/6)
-- [#7 个人微信付款码绑定任意校园一卡通账户漏洞](https://github.com/sanyunshiwoa/Security-Notes/issues/7)
-- [#7 电控管理平台的admin密码爆破漏洞](https://github.com/sanyunshiwoa/Security-Notes/issues/8)
+- [#1 前端密钥硬编码引起的信息泄露](https://github.com/sanyunshiwoa/Security-Notes/issues/6)
+- [#2 个人微信付款码绑定任意校园一卡通账户漏洞](https://github.com/sanyunshiwoa/Security-Notes/issues/7)
+- [#3 电控管理平台的admin密码爆破漏洞](https://github.com/sanyunshiwoa/Security-Notes/issues/8)
 
 
 ### 🛡️ 等保2.0解读（合规视角）
 > 从技术角度解读等保2.0的控制项。
 
-- [#4 等保2.0等级划分解读](https://github.com/sanyunshiwoa/Security-Notes/issues/4)
+- [#1 等保2.0等级划分解读](https://github.com/sanyunshiwoa/Security-Notes/issues/4)
+- [#2 等保三级之数据库安全审计](https://github.com/sanyunshiwoa/Security-Notes/issues/9)
 - [#x 等保2.0安全定级解读](link) - 定级要素、流程等简介
 - [#x 等保2.0基本要求解读](link) - 安全等级保护基本要求/概念
 - [#x 等保2.0安全实施解读](link) - 实施流程、对象、需求等专业分析
